@@ -1,2 +1,2 @@
-# my-porfolio
+# About my portofolio 
 this is my portofolio
